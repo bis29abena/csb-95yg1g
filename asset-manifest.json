@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://bis29abena.github.io/csb-95yg1g/static/js/main.e88e1341.chunk.js",
+    "main.js.map": "https://bis29abena.github.io/csb-95yg1g/static/js/main.e88e1341.chunk.js.map",
+    "runtime-main.js": "https://bis29abena.github.io/csb-95yg1g/static/js/runtime-main.1d7c8411.js",
+    "runtime-main.js.map": "https://bis29abena.github.io/csb-95yg1g/static/js/runtime-main.1d7c8411.js.map",
+    "static/js/2.fd03c0c9.chunk.js": "https://bis29abena.github.io/csb-95yg1g/static/js/2.fd03c0c9.chunk.js",
+    "static/js/2.fd03c0c9.chunk.js.map": "https://bis29abena.github.io/csb-95yg1g/static/js/2.fd03c0c9.chunk.js.map",
+    "index.html": "https://bis29abena.github.io/csb-95yg1g/index.html",
+    "precache-manifest.e74a97b920170878bc0a10912b646f25.js": "https://bis29abena.github.io/csb-95yg1g/precache-manifest.e74a97b920170878bc0a10912b646f25.js",
+    "service-worker.js": "https://bis29abena.github.io/csb-95yg1g/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d7c8411.js",
+    "static/js/2.fd03c0c9.chunk.js",
+    "static/js/main.e88e1341.chunk.js"
+  ]
+}
